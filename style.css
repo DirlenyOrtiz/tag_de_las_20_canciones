@@ -1,0 +1,11 @@
+.titulo1{
+background-color: rgb(255, 0, 191);
+color: beige;
+display: flex;
+justify-content: center;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.titulo2{
+    font-family: 'Kolker Brush', cursive;
+    font-size: 3rem;
+}
