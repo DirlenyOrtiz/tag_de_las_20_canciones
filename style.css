@@ -18,3 +18,11 @@ body{
     background-image: url(http://k30.kn3.net/taringa/0/8/3/E/D/B/SayttaM/26C.jpg);
     
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: antiquewhite;
+    color: orchid;
+}
