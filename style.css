@@ -1,5 +1,5 @@
 .titulo1{
-background-color: rgb(255, 0, 191);
+background-color: darkred;
 color: beige;
 display: flex;
 justify-content: center;
@@ -15,8 +15,8 @@ font-family: 'Source Sans Pro', sans-serif;
     font-size: 2rem;
 }
 body{
-    background-image: url(http://k30.kn3.net/taringa/0/8/3/E/D/B/SayttaM/26C.jpg);
-    
+    background-image: url(https://www.txirula.com/modules/dbblog/views/img/post/ACUSTICAS_A_PRUEBA.jpg);
+    background-size: cover
 }
 .contenedor{
     display: flex;
@@ -25,4 +25,28 @@ body{
 button{
     background-color: antiquewhite;
     color: orchid;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+border: 1px solid;
+text-align: center;
+}
+.table th:hover{
+color: bisque;
+background-color: darkgrey;
+}
+.table tr{
+    color:aliceblue;
+    background-color: rgba(216, 201, 133, 0.774);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1git commitrem;
+}
+.caption{
+    font-family: 'Times New Roman', Times, serif;
+}
+.table td:hover{
+    color: red;
+    background-color: rgb(180, 161, 131);
 }
